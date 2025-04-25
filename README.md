@@ -35,13 +35,11 @@ The system:
    git clone https://github.com/LuizIgnacio2002/capstone_project_genAI
    cd your-project-folder
 
-pip install -r requirements.txt
-GOOGLE_API_KEY=your_api_key_here
+   pip install -r requirements.txt
+   GOOGLE_API_KEY=your_api_key_here
 
-### Running the Project
-```markdown
+
 ## 🚀 Running the Project
-
 Execute the main script:
 ```bash
 python main.py
