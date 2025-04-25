@@ -14,7 +14,7 @@ The system:
    - Finding relevant document chunks
    - Feeding them as context to Gemini-1.5 Flash
    - Generating accurate, context-aware responses
-
+  
 ## 🛠️ Technologies Used
 
 - **Google Gemini API** (`gemini-1.5-flash` for generation, `embedding-001` for embeddings)
@@ -34,3 +34,26 @@ The system:
    ```bash
    git clone [your-repo-url]
    cd your-project-folder
+
+pip install -r requirements.txt
+GOOGLE_API_KEY=your_api_key_here
+
+### Running the Project
+```markdown
+## 🚀 Running the Project
+
+Execute the main script:
+```bash
+python main.py
+```
+
+
+### Project Structure
+```markdown
+## 📂 Project Structure
+├── .env # Environment variables
+├── text.txt # Source text document
+├── chroma_db/ # Chroma database storage
+├── main.py # Main implementation
+└── README.md # This file
+```
