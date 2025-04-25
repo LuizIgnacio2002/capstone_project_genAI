@@ -57,3 +57,26 @@ python main.py
 ├── main.py # Main implementation
 └── README.md # This file
 ```
+
+
+
+## 💡 Example Usage
+
+The script includes a sample question:
+```python
+user_question = "¿Qué estudió Mateo en la universidad?"
+```
+
+
+### Key Features
+```markdown
+## 📝 Key Features
+
+- **Persistent Storage**: ChromaDB maintains embeddings between sessions
+- **Configurable Chunking**: Adjustable chunk size and overlap
+- **Transparent Scoring**: Shows similarity scores for retrieved chunks
+- **Efficient Retrieval**: Returns only the most relevant context for LLM
+```
+
+
+
