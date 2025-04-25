@@ -1,6 +1,5 @@
 # Capstone Project: Gemini + LangChain + ChromaDB Integration
 
-![GenAI Banner](https://storage.googleapis.com/kaggle-media/learn/images/r3vLQYV.png)
 ![image_5d_genai](https://github.com/user-attachments/assets/c8a7d283-6cfb-4c23-bb2b-88c6bf4c7d0e)
 
 This project demonstrates a Retrieval-Augmented Generation (RAG) system built for the **Kaggle's 5 Days of GenAI** course capstone, integrating Google's Gemini API with LangChain and ChromaDB.
