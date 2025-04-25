@@ -32,7 +32,7 @@ The system:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/LuizIgnacio2002/capstone_project_genAI]
+   git clone https://github.com/LuizIgnacio2002/capstone_project_genAI
    cd your-project-folder
 
 pip install -r requirements.txt
