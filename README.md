@@ -80,3 +80,14 @@ user_question = "¿Qué estudió Mateo en la universidad?"
 
 
 
+
+
+
+https://github.com/user-attachments/assets/d50948a8-db0e-4504-94ee-52c278c4a4f7
+
+
+
+
+
+
+
